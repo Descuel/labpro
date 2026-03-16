@@ -7,7 +7,7 @@ public class programa_par {
         System.out.print("Introduce un número entero: ");
         int numero = lector.nextInt();
 
-        // Lógica del "si es par"
+        
         if (numero % 2 == 0) {
             System.out.println("El número es par.");
         } else {
